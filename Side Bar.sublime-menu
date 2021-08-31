@@ -33,11 +33,6 @@
   "caption": "-",
   "id": "sidebar-menu-separator-3"
 },{
-  "caption": "Rename...",
-  "id": "sidebar-menu-rename",
-  "command": "side_bar_menu_rename",
-  "args": { "paths": [] }
-},{
   "caption": "Duplicate…",
   "id": "sidebar-menu-duplicate",
   "command": "side_bar_menu_duplicate",
@@ -46,13 +41,5 @@
   "caption": "Move…",
   "id": "sidebar-menu-move",
   "command": "side_bar_menu_move",
-  "args": { "paths": [] }
-},{
-  "caption": "-",
-  "id": "sidebar-menu-separator-4"
-},{
-  "caption": "Delete",
-  "id": "sidebar-menu-delete",
-  "command": "side_bar_menu_delete",
   "args": { "paths": [] }
 }]
